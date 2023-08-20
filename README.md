@@ -1,7 +1,7 @@
 # Alpine
 Alpine is an Generative Code Transformer Models, based on GPT2 Models.
 
-The models is a Large GPT Models training from scratch on a Million/Billion of Pure All Programming Language Codes.
+The models is training from scratch on a Million/Billion of Pure All Programming Language Codes.
 
 Here are the release Dates :
 
