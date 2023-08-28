@@ -6,9 +6,9 @@ The models is training from scratch on a Million of Pure All Programming Languag
 Here are the release Dates :
 
 ## Alpine (Python-code Transformers Version)
-- Alpine Small Models [Training with 5 Million Datasets] will be released in December 2023.
-- Alpine Medium Models [Training with 40 Million Datasets] will be released in May 2024.
-- Alpine Large Models [Training with 120 Million Datasets] will be released in December 2024.
+- Alpine Small Models will be released in December 2023.
+- Alpine Medium Models will be released in May 2024.
+- Alpine Large Models will be released in December 2024.
 
 
 ## Notes
